@@ -1,5 +1,5 @@
-aws.amazon.com
+*.amazon.com
 *.github.com
-mail.google.com
-myaccount.google.com
-www.youtube.com
+*.google.com
+*.google.com.au
+*.youtube.com
